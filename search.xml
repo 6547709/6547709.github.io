@@ -3,11 +3,14 @@
   <entry>
     <title><![CDATA[Windows10桌面模版启动速度优化]]></title>
     <url>%2F2019%2F02%2F13%2FWindows10-boottime%2F</url>
-    <content type="text"><![CDATA[背景解决方案链接]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F02%2F13%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.Quick StartCreate a new post1$ hexo new "My New Post"More info: WritingRun server1$ hexo serverMore info: ServerGenerate static files1$ hexo generateMore info: GeneratingDeploy to remote sites1$ hexo deployMore info: Deployment]]></content>
+    <content type="text"><![CDATA[背景1java解决方案]]></content>
+      <categories>
+        <category>VMware Horizon 7</category>
+      </categories>
+      <tags>
+        <tag>Windows 10</tag>
+        <tag>优化</tag>
+        <tag>VDI模版</tag>
+      </tags>
   </entry>
 </search>
